@@ -1,0 +1,51 @@
+﻿<persons>
+<person id="{1699191d-a96f-11ea-80c6-fe1e5acbd288}" name="Борисова Виктория Викторовна" position="Контент-менеджер" birthdate="09.01.1988" />
+<person id="{95e80376-19d9-11ec-80ef-fe1e5acbd288}" name="Солнцева Мария Александровна" position="Контент-менеджер" birthdate="13.01.1997" />
+<person id="{d45b54e1-3c8f-11e8-80e4-fc819f719804}" name="Чубарьков Виктор Викторович" position="Менеджер интернет-магазина" birthdate="17.01.1991" />
+<person id="{3cfa45fe-8d30-11eb-80c9-fe1e5acbd288}" name="Батыченко Артем Николаевич" position="Контент-менеджер" birthdate="29.01.1997" />
+<person id="{7cada774-b8a3-11e7-a629-74d435d91b7d}" name="Душенин Сергей Евгеньевич" position="Менеджер интернет-магазина" birthdate="30.01.1981" />
+<person id="{754ddca4-638e-11ea-80c4-fe1e5acbd288}" name="Емелин Илья Антонович" position="Интернет-маркетолог" birthdate="05.02.1993" />
+<person id="{0e2f78ad-2b22-11ec-80f4-fe1e5acbd288}" name="Куканов Виталий Феодосиевич" position="Менеджер интернет-магазина" birthdate="05.02.1983" />
+<person id="{387be32b-ba89-11e8-80eb-d03126c422ec}" name="Дармастук Ксения Михайловна" position="Старший специалист" birthdate="12.02.1996" />
+<person id="{dbe015a8-c2a8-11eb-80dd-fe1e5acbd288}" name="Кириллова Анна Евгеньевна" position="Старший специалист по работе с маркетплейсами" birthdate="16.02.1994" />
+<person id="{feb9d23f-a9ad-11ec-80fa-fe1e5acbd288}" name="Сизова Алена Александровна" position="Специалист" birthdate="29.03.1995" />
+<person id="{8336a03a-b8a3-11e7-a629-74d435d91b7d}" name="Орлов Илья Николаевич" position="Менеджер интернет-магазина" birthdate="30.03.1990" />
+<person id="{4a6fcd11-4069-11ec-80f4-fe1e5acbd288}" name="Субботина Анна Юрьевна" position="Специалист" birthdate="03.04.1991" />
+<person id="{9da57455-651c-11eb-80c8-fe1e5acbd288}" name="Асланов Джавид Тофик оглы" position="Старший менеджер интернет-магазина" birthdate="12.04.1990" />
+<person id="{0f4a527e-c73e-11ea-80c7-fe1e5acbd288}" name="Ерогодский Владимир Андреевич" position="Ведущий специалист по поисковой оптимизации" birthdate="16.04.1992" />
+<person id="{9d9a7a8d-898e-11ec-80f8-fe1e5acbd288}" name="Третьякова Дарья Анатольевна" position="Копирайтер" birthdate="26.04.1992" />
+<person id="{71d7389e-338d-11e9-80bc-fe1e5acbd288}" name="Иванов Владимир Александрович" position="Директор по электронной коммерции" birthdate="05.05.1988" />
+<person id="{9716951f-ea19-11e7-80d7-bf4975b2c6cc}" name="Частухина Надежда Юрьевна" position="Заместитель директора по электронной коммерции" birthdate="05.05.1989" />
+<person id="{bed34b34-8b9e-11eb-80c9-fe1e5acbd288}" name="Ипполитова Вера Николаевна" position="Специалист" birthdate="07.05.1984" />
+<person id="{ea4c4b07-24dc-11ec-80f1-fe1e5acbd288}" name="Дьякова Анастасия Николаевна" position="Оператор контактного центра" birthdate="09.05.1997" />
+<person id="{c19c3ec3-0bbb-11ec-80ee-fe1e5acbd288}" name="Слободян Анна Валерьевна" position="Копирайтер" birthdate="15.05.1997" />
+<person id="{908f9196-ce9a-11eb-80dd-fe1e5acbd288}" name="Останина Александра Ивановна" position="Оператор контактного центра" birthdate="30.05.2002" />
+<person id="{5d2991c9-b8a3-11e7-a629-74d435d91b7d}" name="Тютрюмов Юрий Владимирович" position="Менеджер интернет-магазина" birthdate="11.06.1983" />
+<person id="{06855868-a960-11ea-80c6-fe1e5acbd288}" name="Пулина Ирина Евгеньевна" position="Контент-менеджер" birthdate="13.06.1985" />
+<person id="{b32c5882-5bdd-11ec-80f5-fe1e5acbd288}" name="Глинкина Анастасия Геннадьевна" position="Контент-менеджер" birthdate="18.06.2002" />
+<person id="{9558f8b9-19d9-11ec-80ef-fe1e5acbd288}" name="Шкапов Илья Эдуардович" position="Специалист по поисковой оптимизации" birthdate="18.06.1993" />
+<person id="{cbbb8a6d-8558-11eb-80c8-fe1e5acbd288}" name="Ромашкина Мария Александровна" position="Оператор контактного центра" birthdate="22.06.1983" />
+<person id="{ec1aaa20-7716-11e9-80bd-fe1e5acbd288}" name="Кройтор Андрей Сергеевич" position="Ведущий веб-программист" birthdate="23.06.1990" />
+<person id="{c2a7597e-afaa-11ea-80c6-fe1e5acbd288}" name="Лебедев Иван Игоревич" position="Контент-менеджер" birthdate="01.07.1995" />
+<person id="{6997199d-2d5a-11eb-80c7-fe1e5acbd288}" name="Козлов Александр Николаевич" position="Веб- программист" birthdate="02.07.1983" />
+<person id="{4ec579c7-d56e-11ea-80c7-fe1e5acbd288}" name="Жуков Денис Дмитриевич" position="Руководитель группы продаж" birthdate="05.07.1985" />
+<person id="{b8ae3364-550f-11e8-80e7-c2ade18a4553}" name="Аникин Кирилл Валерьевич" position="Менеджер интернет-магазина" birthdate="06.07.1992" />
+<person id="{d476fe23-d3e8-11eb-80e1-fe1e5acbd288}" name="Озимова Марина Сергеевна" position="Оператор контактного центра" birthdate="25.07.1972" />
+<person id="{e3b7b611-9564-11ec-80fa-fe1e5acbd288}" name="Балашов Александр Сергеевич" position="Контент-менеджер" birthdate="26.07.1996" />
+<person id="{cf21e724-03d7-11ec-80ee-fe1e5acbd288}" name="Новожилов Дмитрий Александрович" position="Специалист по поисковой оптимизации" birthdate="27.07.1988" />
+<person id="{2364f787-224b-11ea-80c4-fe1e5acbd288}" name="Ехлакова Анджела Николаевна" position="Оператор контактного центра" birthdate="05.08.1975" />
+<person id="{3c975f8e-809e-11eb-80c8-fe1e5acbd288}" name="Золотова Елена Борисовна" position="Специалист по управлению ассортиментом" birthdate="09.08.1976" />
+<person id="{1b3eaaa7-a36a-11ec-80fa-fe1e5acbd288}" name="Строганова Евгения Олеговна" position="Офис-менеджер" birthdate="12.08.1990" />
+<person id="{e3ece6d5-fe58-11eb-80ed-fe1e5acbd288}" name="Кубышева Полина Дмитриевна" position="Специалист по продвижению в социальных сетях" birthdate="07.09.1997" />
+<person id="{5d2991a1-b8a3-11e7-a629-74d435d91b7d}" name="Грейцев Павел Андреевич" position="Менеджер интернет-магазина" birthdate="10.09.1987" />
+<person id="{f34f8d01-6cd5-11ea-80c4-fe1e5acbd288}" name="Потапов Игорь Александрович" position="Руководитель группы маркетинга и продвижения" birthdate="10.09.1980" />
+<person id="{f6bc4959-f393-11eb-80ed-fe1e5acbd288}" name="Кронштадская Оксана Валерьевна" position="Старший оператор контактного центра" birthdate="17.09.1987" />
+<person id="{ece8efb7-369d-11ea-80c4-fe1e5acbd288}" name="Глинкин Анатолий Александрович" position="Контент-менеджер" birthdate="14.10.1997" />
+<person id="{05aea588-8189-11eb-80c8-fe1e5acbd288}" name="Ковальчук Артем Михайлович" position="Видеооператор" birthdate="14.10.1989" />
+<person id="{e807a7a7-92de-11ec-80fa-fe1e5acbd288}" name="Ярошенко Ирина Витальевна" position="Специалист по работе с маркетплейсами" birthdate="14.10.1995" />
+<person id="{b401f59e-a370-11ec-80fa-fe1e5acbd288}" name="Викулова Елена Львовна" position="Оператор контактного центра" birthdate="21.10.1970" />
+<person id="{128fd56b-1f59-11ec-80f0-fe1e5acbd288}" name="Бабанков Алексей Александрович" position="Менеджер интернет-магазина" birthdate="18.11.1987" />
+<person id="{7cada7a8-b8a3-11e7-a629-74d435d91b7d}" name="Гречкин Руслан Викторович" position="Менеджер интернет-магазина" birthdate="23.11.1988" />
+<person id="{82b729b2-a97a-11eb-80cb-fe1e5acbd288}" name="Ершова Екатерина Дмитриевна" position="Руководитель группы ценообразования и управления ассортиментом" birthdate="30.11.1986" />
+<person id="{ad403eee-a0db-11eb-80ca-fe1e5acbd288}" name="Абрамов Денис Васильевич" position="Менеджер интернет-магазина" birthdate="22.12.1988" />
+</persons>
