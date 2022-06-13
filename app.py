@@ -26,12 +26,20 @@ def get_links():
     links_dict = {}
     for index, value in enumerate(data.get_persons_list()):
         alias = value['id'][1:-1]
-        links_dict[index] = domen + '/links/' + alias
+        links_dict[index] = domen + '/birthdays/' + alias
     return links_dict
 
 @app.route("/birthdays/<id>")
-def hello_world3(id):
-    return f"<p>Hello, World!{id}</p>"
+def get_person(id):
+    true_id = '{' + id + '}'
+    actual_person = {}
+    for item in data.get_persons_list():
+        if item['id'] == true_id:
+            actual_person = item
+    if len(actual_person) > 0:
+        return actual_person
+    else:
+        return {'lol': 'не в этот раз'}
 
 
 # if __name__ == '__main__':
